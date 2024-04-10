@@ -1,0 +1,22 @@
+.root {
+    -fx-padding: 20;
+    -fx-alignment: center;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-background-color: #0078d7;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+    -fx-padding: 10 20;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+.list-view {
+    -fx-padding: 10;
+}
+
+.alert {
+    -fx-font-size: 14px;
+}
